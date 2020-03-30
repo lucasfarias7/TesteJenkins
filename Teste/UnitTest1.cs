@@ -10,7 +10,7 @@ namespace Teste
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("Oii Jenkins", Program.Mensagem());
+            Assert.AreEqual("Hello Worlds", Program.Mensagem());
         }
     }
 }
